@@ -1,3 +1,23 @@
 timestamp,model,param_size,quantisation,prompt_tokens,tokens_generated,response_s,load_s,tokens_per_s,os,cpu,gpu,ram_gb
 2026-11-23T20:14:17,phi3:mini,3.8B,Q4_0,19,14,3.42,1.28,276.4,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
 2026-11-23T20:15:07,phi3:mini,3.8B,Q4_0,19,14,2.17,0.0,162.0,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:26:38,phi3:mini,3.8B,Q4_0,452,113,8.15,1.29,252.0,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:27:23,phi3:mini,3.8B,Q4_0,456,89,2.48,0.0,226.9,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:28:09,phi3:mini,3.8B,Q4_0,575,103,2.59,0.0,206.0,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:28:53,phi3:mini,3.8B,Q4_0,703,105,2.62,0.0,197.0,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:30:32,phi3:mini,3.8B,Q4_0,849,118,2.63,0.0,211.1,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:31:54,phi3:mini,3.8B,Q4_0,1015,123,2.69,0.0,204.2,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:32:22,phi3:mini,3.8B,Q4_0,1156,128,2.77,0.0,192.7,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:33:39,phi3:mini,3.8B,Q4_0,1218,121,2.76,0.0,224.9,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:35:16,phi3:mini,3.8B,Q4_0,1288,111,2.82,0.0,198.4,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:36:58,phi3:mini,3.8B,Q4_0,1314,126,2.86,0.0,204.4,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:39:10,phi3:mini,3.8B,Q4_0,1409,137,2.89,0.0,221.9,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:40:17,phi3:mini,3.8B,Q4_0,476,83,2.63,0.0,235.6,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:40:32,phi3:mini,3.8B,Q4_0,573,107,2.54,0.0,234.8,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:40:57,phi3:mini,3.8B,Q4_0,691,96,2.55,0.0,203.6,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:41:18,phi3:mini,3.8B,Q4_0,801,103,2.58,0.0,204.3,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:42:08,phi3:mini,3.8B,Q4_0,927,87,2.58,0.0,176.4,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:42:31,phi3:mini,3.8B,Q4_0,1029,99,2.62,0.0,186.6,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:43:04,phi3:mini,3.8B,Q4_0,1035,87,2.66,0.0,188.9,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:43:32,phi3:mini,3.8B,Q4_0,1044,89,2.68,0.0,192.8,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T21:43:46,phi3:mini,3.8B,Q4_0,1027,97,2.67,0.0,212.4,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
