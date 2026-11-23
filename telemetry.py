@@ -9,7 +9,7 @@ LOG = os.path.join ("logs", "telemetry.csv")
 
 FIELDS = ["timestamp", "model", "param_size", "quantisation", "prompt_tokens", "tokens_generated", "response_s", "load_s", "tokens_per_s", "os", "cpu", "gpu", "ram_gb"]
 
-
+# finding which cpu that the project is being run on
 def get_cpu():
     try:
         out = subprocess.check_output(
@@ -20,7 +20,7 @@ def get_cpu():
     except Exception:
         return platform.processor() or "unknown"
 
-
+# finding the gpu that the project is being run on
 def get_gpu():
     try:
         out = subprocess.check_output(

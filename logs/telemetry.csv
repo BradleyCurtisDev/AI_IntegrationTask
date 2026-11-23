@@ -1,0 +1,3 @@
+timestamp,model,param_size,quantisation,prompt_tokens,tokens_generated,response_s,load_s,tokens_per_s,os,cpu,gpu,ram_gb
+2026-11-23T20:14:17,phi3:mini,3.8B,Q4_0,19,14,3.42,1.28,276.4,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
+2026-11-23T20:15:07,phi3:mini,3.8B,Q4_0,19,14,2.17,0.0,162.0,Windows,AMD Ryzen 9 9950X3D 16-Core Processor,NVIDIA GeForce RTX 5070 Ti,33.4
