@@ -2,10 +2,10 @@
 
 To run the project on your own PC please first install Ollama and then run the following commands in powershell
 
-git clone <https://github.com/BradleyCurtisDev/AI_IntegrationTask>
-cd AI_IntegrationTask
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-ollama pull phi3:mini
-python main.py
+git clone <https://github.com/BradleyCurtisDev/AI_IntegrationTask> <br />
+cd AI_IntegrationTask <br />
+python -m venv .venv <br />
+.\.venv\Scripts\Activate.ps1 <br />
+pip install -r requirements.txt <br />
+ollama pull phi3:mini <br />
+python main.py <br />
